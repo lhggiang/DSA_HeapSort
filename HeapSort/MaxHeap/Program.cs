@@ -29,7 +29,7 @@ class Program
     }
     public static void HeapSort(int[] arr, int n)
     {
-        //xây dựng max heap, từ 0 -> 2/n-1 là nút khác nút lá
+        //xây dựng max heap, từ 0 -> n/2-1 là nút khác nút lá
         for (int i = n / 2 - 1; i >= 0; i--)
         {
             Heapify(arr, n, i);
