@@ -1,0 +1,14 @@
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\bin\Debug\net6.0\MaxHeap.exe
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\bin\Debug\net6.0\MaxHeap.deps.json
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\bin\Debug\net6.0\MaxHeap.runtimeconfig.json
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\bin\Debug\net6.0\MaxHeap.dll
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\bin\Debug\net6.0\MaxHeap.pdb
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\MaxHeap.GeneratedMSBuildEditorConfig.editorconfig
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\MaxHeap.AssemblyInfoInputs.cache
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\MaxHeap.AssemblyInfo.cs
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\MaxHeap.csproj.CoreCompileInputs.cache
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\MaxHeap.dll
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\refint\MaxHeap.dll
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\MaxHeap.pdb
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\MaxHeap.genruntimeconfig.cache
+F:\UEH\CTDL&GT\HeapSort\MaxHeap\obj\Debug\net6.0\ref\MaxHeap.dll
