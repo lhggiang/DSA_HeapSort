@@ -8,7 +8,7 @@ class Program
 {
     public static void Heapify(int[] arr, int n, int i)
     {
-        int largest = i; //xem i là chỉ số của phần tử lớn nhất
+        int largest = i; //xem largest là chỉ số của phần tử lớn nhất
         int left = 2 * i + 1; //nút con bên trái
         int right = 2 * i + 2; //nút con bên phải
         if (left < n && arr[left] > arr[largest])
